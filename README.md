@@ -1,7 +1,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 # MyPortfolio
 
-> This project is about creating a portfolio page using best practices for HTML and CSS and uses linters, GitHub Flow rules and documentation of work. It is important to start with a new repository and setup the linters, follow a design template for the portfolio or create your own through Figma and code it using HTML and CSS. I built the first 2 sections of the mobile website using a Figma template provided by Microverse.
+> This project is about creating a portfolio page using best practices for HTML and CSS and uses linters, GitHub Flow rules and documentation of work. It is important to start with a new repository and setup the linters, follow a design template for the portfolio or create your own through Figma and code it using HTML and CSS. I built the mobile website using a Figma template provided by Microverse.
        I used the linters - GitHub Actions, Lighthouse, Webhint and Stylelint to make this project error-free. Also, all the other files except the HTML and CSS files were added to feature branches to make the main branch remain in best possible condition and stable.
    
 ## Built With 💻⌚️💡
