@@ -2,16 +2,28 @@ ul {
   list-style: none;
 }
 
-.skill3 {
+.float {
+    display: flex;
+  }  
+
+.skill{
   float: none;
   padding: 20px;
-  background-color: royalblue;
+  background-color: rebeccapurple;
   border: 1px solid royalblue;
   border-radius: 20px;
   color: #fff;
   margin: 20px;
 }
 
-.float {
-  display: flex;
+#s1 {
+  float: left;
 }
+
+#s2 {
+    float: none;
+  }
+
+  #s3 {
+    float: right;
+  }
