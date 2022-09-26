@@ -1,0 +1,17 @@
+ul {
+  list-style: none;
+}
+
+.skill3 {
+  float: none;
+  padding: 20px;
+  background-color: royalblue;
+  border: 1px solid royalblue;
+  border-radius: 20px;
+  color: #fff;
+  margin: 20px;
+}
+
+.float {
+  display: flex;
+}
